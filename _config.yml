@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bai Haoyuan"
-  avatar           : "https://github.com/baihaoyuan/acad-homepage.github.io/blob/73a211a6875533a8804b1e9a50fe1769ae9e0bd7/images/bhy.png"
+  avatar           : "./images/bhy.png"
   bio              : "SNNU College a freshman" 
   location         : "Yunnan, China"
   employer         :
