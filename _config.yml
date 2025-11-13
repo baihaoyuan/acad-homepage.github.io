@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Bai Haoyuan"
+title                    : "xiaobaibai"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bai Haoyuan"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "SNNU College"
+  avatar           : "C:\Users\HY\Pictures\证件照\微信图片_20250820211706_12.png"
+  bio              : "SNNU College" 
   location         : "Yunnan, China"
   employer         :
   pubmed           : 
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             :
+  xing             :"B3061950440"
   youtube          :
   wikipedia        :
 
