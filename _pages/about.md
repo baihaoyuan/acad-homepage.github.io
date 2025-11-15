@@ -21,12 +21,14 @@ I am a freshman majoring in Computer Science at Shaanxi Normal University. I com
 
 I am quite interested in chemistry and aim to realize intelligent chemistry through computer science to deduce the principles of chemical reactions. Meanwhile, I have also participated in a research project on Web3 and blockchain. Of course, I am a complete beginner with no prior experience and hope to further my learning in this field.
 
---Education
+📖 Educations
 2025-09：enter SNNU
 
 --Email
 3061950440@qq.com
 
+🎖 Honors and Awards
+Won the National Second-Class Award in Writing in 2023
 
 
 
